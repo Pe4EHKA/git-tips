@@ -90,6 +90,10 @@ Date:   Tue Mar 28 00:26:53 2023 +0300
 ... # другие коммиты
 ```
 
+### Статусы `untracked`/`tracked`, `staged` и `modified`
+![Image](https://github.com/Pe4EHKA/git-tips/assets/90619451/acd361a7-826e-4bf2-8893-2de5f0361c96)
+
+
 ### Mermaid - схема
 HEAD -- это голова.
 Коммит -- это всему голова.
